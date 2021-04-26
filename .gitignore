@@ -4,13 +4,11 @@ target/
 **/src/main/**/target/
 **/src/test/**/target/
 logs/
+.mvn
 ### STS ###
 .apt_generated
 .classpath
-.factorypath
-.project
-.settings
-.springBeans
+.factorypath	
 .sts4-cache
 
 ### IntelliJ IDEA ###
